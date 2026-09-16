@@ -1,0 +1,7 @@
+url: https://github.com/Mekansm1/DSH-WebGIS
+     name: Mekansm1/DSH-WebGIS
+     category: tools
+     description:
+       en: 'Conversational GIS for the DSH Web UI, with local file and PostGIS querying, interactive maps, and spatial
+       analysis.'
+       zh: '面向 DSH Web 界面的对话式 GIS，支持本地文件与 PostGIS 数据查询、交互地图和空间分析。'
